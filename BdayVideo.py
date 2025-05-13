@@ -1,4 +1,4 @@
-#Author : CHETAN RAGHUVANSHI - FOR KRITIKA B'DAY 
+#Author : CHETAN LULLI - FOR KRITIKA's B'DAY 
 
 from google.colab import files
 import shutil
